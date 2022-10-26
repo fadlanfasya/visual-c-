@@ -1,0 +1,9 @@
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\bin\Debug\Aplikasi Hitung Pangkat.exe.config
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\bin\Debug\Aplikasi Hitung Pangkat.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\bin\Debug\Aplikasi Hitung Pangkat.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi_Hitung_Pangkat.Form1.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi_Hitung_Pangkat.Properties.Resources.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi Hitung Pangkat.csproj.GenerateResource.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi Hitung Pangkat.csproj.CoreCompileInputs.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi Hitung Pangkat.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Aplikasi Hitung Pangkat\Aplikasi Hitung Pangkat\obj\Debug\Aplikasi Hitung Pangkat.pdb

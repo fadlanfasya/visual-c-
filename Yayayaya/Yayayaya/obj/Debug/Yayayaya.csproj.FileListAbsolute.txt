@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\bin\Debug\Yayayaya.exe.config
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\bin\Debug\Yayayaya.exe
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\bin\Debug\Yayayaya.pdb
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.Form1.resources
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.exe
+C:\Users\Administrator\source\repos\Yayayaya\Yayayaya\obj\Debug\Yayayaya.pdb

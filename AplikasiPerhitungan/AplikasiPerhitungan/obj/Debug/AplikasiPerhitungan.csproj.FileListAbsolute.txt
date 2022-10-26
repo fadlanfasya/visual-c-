@@ -1,0 +1,9 @@
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\bin\Debug\AplikasiPerhitungan.exe.config
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\bin\Debug\AplikasiPerhitungan.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\bin\Debug\AplikasiPerhitungan.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.Form1.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.Properties.Resources.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.csproj.GenerateResource.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.csproj.CoreCompileInputs.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\AplikasiPerhitungan\AplikasiPerhitungan\obj\Debug\AplikasiPerhitungan.pdb

@@ -1,0 +1,10 @@
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

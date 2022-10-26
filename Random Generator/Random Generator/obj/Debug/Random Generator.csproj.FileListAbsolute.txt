@@ -1,0 +1,10 @@
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\bin\Debug\Random Generator.exe.config
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\bin\Debug\Random Generator.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\bin\Debug\Random Generator.pdb
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random Generator.csproj.AssemblyReference.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random_Generator.Form1.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random_Generator.Properties.Resources.resources
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random Generator.csproj.GenerateResource.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random Generator.csproj.CoreCompileInputs.cache
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random Generator.exe
+D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\Random Generator\Random Generator\obj\Debug\Random Generator.pdb

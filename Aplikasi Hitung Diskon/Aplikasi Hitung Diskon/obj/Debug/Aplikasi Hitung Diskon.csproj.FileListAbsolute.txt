@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\bin\Debug\Aplikasi Hitung Diskon.exe.config
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\bin\Debug\Aplikasi Hitung Diskon.exe
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\bin\Debug\Aplikasi Hitung Diskon.pdb
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi Hitung Diskon.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi_Hitung_Diskon.Form1.resources
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi_Hitung_Diskon.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi Hitung Diskon.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi Hitung Diskon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi Hitung Diskon.exe
+C:\Users\Administrator\source\repos\Aplikasi Hitung Diskon\Aplikasi Hitung Diskon\obj\Debug\Aplikasi Hitung Diskon.pdb

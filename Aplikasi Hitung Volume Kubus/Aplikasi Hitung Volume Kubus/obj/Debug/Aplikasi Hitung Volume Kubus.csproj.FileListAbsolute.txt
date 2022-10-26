@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\bin\Debug\Aplikasi Hitung Volume Kubus.exe.config
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\bin\Debug\Aplikasi Hitung Volume Kubus.exe
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\bin\Debug\Aplikasi Hitung Volume Kubus.pdb
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi Hitung Volume Kubus.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi_Hitung_Volume_Kubus.Form1.resources
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi_Hitung_Volume_Kubus.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi Hitung Volume Kubus.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi Hitung Volume Kubus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi Hitung Volume Kubus.exe
+C:\Users\Administrator\source\repos\Aplikasi Hitung Volume Kubus\Aplikasi Hitung Volume Kubus\obj\Debug\Aplikasi Hitung Volume Kubus.pdb
