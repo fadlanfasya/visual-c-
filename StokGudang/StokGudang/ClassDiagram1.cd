@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="StokGudang.Kardus">
-    <Position X="2" Y="2" Width="1.5" />
+  <Class Name="StokGudang.kardus">
+    <Position X="2.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAQAAAAAAAAIAAAAAAAEAAAAAAQAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAQAAAoEAAAIAAQACAgEBgAAAAQAAAAAAAAgA=</HashCode>
       <FileName>Kardus.cs</FileName>
     </TypeIdentifier>
   </Class>
