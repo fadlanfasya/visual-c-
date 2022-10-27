@@ -8,13 +8,24 @@ C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.Ge
 C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
 C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.exe
 C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.pdb
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\bin\Debug\StokGudang.exe.config
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\bin\Debug\StokGudang.exe
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\bin\Debug\StokGudang.pdb
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.AssemblyReference.cache
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.Form1.resources
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.Properties.Resources.resources
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.GenerateResource.cache
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.exe
-D:\Magang\Kampus Merdeka Part 2\LAPI\Tugas\Visual Studio C#\StokGudang\StokGudang\obj\Debug\StokGudang.pdb
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.AssemblyReference.cache
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.Form1.resources
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.Properties.Resources.resources
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.exe
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\obj\Debug\StokGudang.pdb
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\bin\Debug\StokGudang.exe.config
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\bin\Debug\StokGudang.exe
+C:\Users\MSI GF63\Downloads\StokGudang_Design\StokGudang\StokGudang\bin\Debug\StokGudang.pdb
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\bin\Debug\StokGudang.exe.config
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\bin\Debug\StokGudang.exe
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\bin\Debug\StokGudang.pdb
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.Form1.resources
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.Properties.Resources.resources
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.exe
+C:\Users\Administrator\Downloads\StokGudang\StokGudang\obj\Debug\StokGudang.pdb

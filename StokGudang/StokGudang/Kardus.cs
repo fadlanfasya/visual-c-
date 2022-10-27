@@ -13,15 +13,18 @@ namespace StokGudang
         private DateTime kadaluarsa;
         private int id;
 
-        public string ID { get => nama; }
-        public string Nama { get => nama; set => nama = value; }
-        public int Berat { get => berat; set => berat = value; }
-        public int Isi { get => isi; set => isi = value; }
-        public DateTime Kadaluarsa { get => kadaluarsa; set => kadaluarsa = value; }
+        public int ID { get => id; }
+        public string Nama { get => nama;}
+        public int Berat { get => berat;}
+        public int Isi { get => isi;}
+        public DateTime Kadaluarsa { get => kadaluarsa;}
 
-        public void EditKardus()
+        public void EditKardus(string getNama, int getBerat, int getIsi, DateTime getKadaluarsa)
         {
-            throw new System.NotImplementedException();
+            this.nama = getNama;
+            this.berat = getBerat;
+            this.isi = getIsi;
+            this.kadaluarsa = getKadaluarsa;
         }
 
         public void CheckKadaluarasa()
@@ -33,8 +36,9 @@ namespace StokGudang
         {
             this.id = getId;
             this.nama = getNama;
+            this.berat = getBerat;
             this.isi = getIsi;
-            this.Kadaluarsa = getKadaluarsa;
+            this.kadaluarsa = getKadaluarsa;
         }
     }
 }
